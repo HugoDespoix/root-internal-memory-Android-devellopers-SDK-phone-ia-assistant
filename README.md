@@ -16,3 +16,4 @@ En 3e, Les applications que on naissance imiter peuvent utiliser leur adresse de
 
 10 février
 Internal-memory-Android-devellopers-SDK-phone-ia-GOOGL'assistante.
+hdespoix@gmail.com(CC-BY)
